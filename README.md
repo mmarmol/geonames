@@ -1,5 +1,5 @@
 # geonames
-The initial information that comes from www.geonames.org, they have stop to share as download this dataset so we are going to maintain from here. If you want to request to update any information please submit a ticket in the project.
+The initial information comes from www.geonames.org, they occasionally stop to sharing as download so we are going to maintain an up to date with less columns from here. If you want to request to update any information please submit a ticket in the project.
 
 ===========================================================================================================
 

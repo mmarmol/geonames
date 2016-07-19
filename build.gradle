@@ -1,0 +1,21 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+        mavenLocal()
+        mavenCentral()
+}
+
+group = 'io.gromit'
+version = '0.1.0'
+
+dependencies {
+    compile 'commons-io:commons-io:2.4'
+    compile 'org.slf4j:slf4j-api:1.7.16'
+    compile 'org.slf4j:slf4j-log4j12:1.7.16'
+    compile 'org.apache.commons:commons-lang3:3.4'
+    compile 'com.univocity:univocity-parsers:2.0.0'
+}
